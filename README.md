@@ -17,4 +17,4 @@ DU Data Bootcamp: M18 - Unsupervised ML
 <p>There is a tremendous amount of higher level mathematics required in some of the algorithms used at this point of ML. I love math and learning, so getting into depth on the math behind these algorithms is an exciting frontier, but certainly a challenging one. Really gaining even a baseline understanding of principle components was one such of these challenges that I will surely have to spend more significant time on.</p>
 
 ## Results
-<p></p>
+<p>So what have we learned? Blockchain and the associated cryptocurrencies are incredible complex vehicles. This exploration is but an initial step into a greater understanding of an extremely vast world of digital property. Further analysis and exploration is absolutely necessary to initiate an investment into crypto with confidence of what the investor is getting into. That being said, this challenge was a lot of fun and at least serves as a jumping off point into that further exploration.</p>
